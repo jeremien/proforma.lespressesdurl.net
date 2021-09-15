@@ -6,7 +6,7 @@
       <figcaption>crédits: www.containex.com</figcaption>
     </figure>
     <br>
-    <a href="/pdf/proforma_juin-2021.pdf">Télécharger le pdf</a>
+    <a href="https://www.dropbox.com/sh/yu2wt2hxiora1hd/AAALtgQtGW4WyAZSv2PUPnx4a?dl=0">Télécharger le pdf</a>
   </div>
 </template>
 

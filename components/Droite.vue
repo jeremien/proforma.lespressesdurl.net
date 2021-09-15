@@ -3,17 +3,23 @@
     <p>Cet ouvrage collectif résulte d’une collaboration entre les presses d’URL, 
       le Laboratoire ECLLA de l’Université Jean Monnet Saint‑Étienne et le Random(lab) de l’École supérieure d’art et design de Saint‑Étienne.</p> 
       
-      <br>
-      <h1>Direction scientifique</h1>
-      <p>Gwenaëlle Bertrand, enseignante‑chercheuse 
-        et designer et Jérémie Nuel, enseignant et designer graphique, 
-        responsable des presses d’URL.</p>
-      <br>
-      <h1>Conception de la maquette <br>et éditorialisation des contenus</h1>
-      <p>Maxime Bouton et Émile Greis, designers graphiques et développeurs.</p> 
-      <br>
-      <h1>Auteurs</h1>
-      <p>Sandra et Gaspard Bébié‐Valérian, Gwenaëlle Bertrand, Léonore Bonaccini, Céline Cadaureille, Anne‐Céline Callens, Maxime Favard, Xavier Fourt, Thibault Honoré, Nolwenn Maudet, Rodolphe Olcese, Jacopo Rasmi, Sophie Suma.</p>
+    <br>
+    <h1>Direction scientifique</h1>
+    <p>Gwenaëlle Bertrand, enseignante‑chercheuse 
+      et designer et Jérémie Nuel, enseignant et designer graphique, 
+      responsable des presses d’URL.</p>
+    <br>
+    <h1>Conception de la maquette <br>et éditorialisation des contenus</h1>
+    <p>Maxime Bouton et Émile Greis, designers graphiques et développeurs.</p> 
+    <br>
+    <h1>Auteurs</h1>
+    <p>Sandra et Gaspard Bébié‐Valérian, Gwenaëlle Bertrand, Léonore Bonaccini, Céline Cadaureille, Anne‐Céline Callens, Maxime Favard, Xavier Fourt, Thibault Honoré, Nolwenn Maudet, Rodolphe Olcèse, Jacopo Rasmi, Sophie Suma.</p>
+    <br>
+    <h1>Les presses d'URL</h1>
+    <p>Les presses d’URL s’attèlent à rassembler des propositions d’édition qui agencent des chaînes de publication singulières, organisées autour de
+      programmes informatiques qui sont partie prenante du geste artistique, à la fois
+      outils et coéquipiers, développés spéciﬁquement pour la conception et la
+      production de l’ouvrage.</p>
     <br>
     <h1>Sommaire</h1>
     <ul>
