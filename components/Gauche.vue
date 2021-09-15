@@ -1,9 +1,10 @@
 <template>
   <div class="gauche">
     <h1>Œuvre, objet, image, travail</h1>
+    <h2>Proforma 1, juin 2021</h2>
     <figure>
       <img src="~/assets/image.png" />
-      <figcaption>crédits: www.containex.com</figcaption>
+      <figcaption><a href="https://unsplash.com/photos/376KN_ISplE">source de l'image</a></figcaption>
     </figure>
     <br>
     <a href="https://www.dropbox.com/sh/yu2wt2hxiora1hd/AAALtgQtGW4WyAZSv2PUPnx4a?dl=0">Télécharger le pdf</a>

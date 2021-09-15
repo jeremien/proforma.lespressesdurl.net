@@ -7,7 +7,7 @@
     <h1>Direction scientifique</h1>
     <p>Gwenaëlle Bertrand, enseignante‑chercheuse 
       et designer et Jérémie Nuel, enseignant et designer graphique, 
-      responsable des presses d’URL.</p>
+      cadre des presses d’URL.</p>
     <br>
     <h1>Conception de la maquette <br>et éditorialisation des contenus</h1>
     <p>Maxime Bouton et Émile Greis, designers graphiques et développeurs.</p> 
