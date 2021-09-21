@@ -68,7 +68,18 @@ export default {
   }
 
   .link {
-    text-decoration: underline;
+    /* text-decoration: underline; */
     cursor: pointer;
+    /* border-left: 1px solid red; */
+    padding-left: 5px;
+    color: #001aff;
+  }
+
+  .link::before {
+    content: '★ ';
+  }
+
+  .link:hover {
+    color: black;
   }
 </style>
