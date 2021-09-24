@@ -1,7 +1,7 @@
 <template>
   <div class="droite">
     <p>Cet ouvrage collectif résulte d’une collaboration entre les presses d’URL, 
-      le Laboratoire ECLLA de l’Université Jean Monnet Saint‑Étienne et le Random(lab) de l’École supérieure d’art et design de Saint‑Étienne.</p> 
+      le Laboratoire ECLLA et le consortium ARTS de l’Université Jean Monnet Saint‑Étienne et le Random(lab) de l’École supérieure d’art et design de Saint‑Étienne.</p> 
       
     <br>
     <h1>Direction scientifique</h1>
