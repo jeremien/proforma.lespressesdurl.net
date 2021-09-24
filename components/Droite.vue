@@ -16,7 +16,7 @@
     <p>Sandra et Gaspard Bébié‐Valérian, Gwenaëlle Bertrand, Léonore Bonaccini, Céline Cadaureille, Anne‐Céline Callens, Maxime Favard, Xavier Fourt, Thibault Honoré, Nolwenn Maudet, Rodolphe Olcèse, Jacopo Rasmi, Sophie Suma.</p>
     <br>
     <h1>Les presses d'URL</h1>
-    <p>Les presses d’URL s’attèlent à rassembler des propositions d’édition qui agencent des chaînes de publication singulières, organisées autour de
+    <p>Les presses d’URL s’attellent à rassembler des propositions d’édition qui agencent des chaînes de publication singulières, organisées autour de
       programmes informatiques qui sont partie prenante du geste artistique, à la fois
       outils et coéquipiers, développés spéciﬁquement pour la conception et la
       production de l’ouvrage.</p>
